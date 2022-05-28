@@ -6,4 +6,4 @@
 
 [Click here](https://bedirhanerguven10.github.io/bootstrap-navbar-hw-2/) to reach my study . Stay tuned! 🤜
 
-![](https://bedirhanerguven10.github.io/bootstrap-navbar-hw-2/)
+![](https://github.com/bedirhanerguven10/bootstrap-navbar-hw-2/blob/master/navbar-bootstrap.gif)
